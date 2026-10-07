@@ -2,4 +2,10 @@
   <Project Path="01 Boktiteln (Deklarera en klass &amp; fält)/01 Boktiteln (Deklarera en klass &amp; fält).csproj" />
   <Project Path="02 Egenskaper (Properties) med Auto-implementering/02 Egenskaper (Properties) med Auto-implementering.csproj" Id="ccb83891-f5f8-4890-828e-92d96f325246" />
   <Project Path="03 Standardkonstruktor (Constructor)/03 Standardkonstruktor (Constructor).csproj" Id="a8b91686-3bc5-4b54-9e02-fa7e71cd346e" />
+  <Project Path="04 Enkel Instansmetod/04 Enkel Instansmetod.csproj" Id="b4bac4fc-b204-44a0-afd0-fda1a187a4e0" />
+  <Project Path="05 Flera objekt i en lista/05 Flera objekt i en lista.csproj" Id="04501acf-b89f-4d94-b2c3-53fd592df3af" />
+  <Project Path="06 Inkapsling med privat fält och validering/06 Inkapsling med privat fält och validering.csproj" Id="10519d6a-4d8f-4020-8f1f-cfff3189ba74" />
+  <Project Path="07 Statisk vs Instansmetod (Verktygsklass)/07 Statisk vs Instansmetod (Verktygsklass).csproj" Id="c7d867d6-8e1b-4a01-ba28-7fa0469f50ea" />
+  <Project Path="08 Statiskt fält som Räknare (Objektsräknare)/08 Statiskt fält som Räknare (Objektsräknare).csproj" Id="aa1645d0-abdb-4e48-b16a-eea757af6aec" />
+  <Project Path="09 Metodöverlagring (Constructor Overloading)/09 Metodöverlagring (Constructor Overloading).csproj" Id="75557b3e-170a-476e-b61b-b677557cad13" />
 </Solution>
